@@ -3,3 +3,6 @@ This is a list of things I like:
 + UCLA
 + Statistics
 + Python
+
+Some things I don't like:
++ Mosquitoes
