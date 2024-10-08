@@ -1,4 +1,4 @@
 # demo_repo
-demonstration repository for class
+demonstration repository for homework1
 
 I'm editing the file here in github
